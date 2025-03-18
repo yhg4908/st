@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #121212; /* 다크 배경 */
+    color: #e0e0e0; /* 기본 텍스트 색상 */
+}
+
+header {
+    background-color: #1f1f1f; /* 다크 배경에 맞는 헤더 색상 */
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+}
+
+.project {
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #007acc;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #005f99;
+}
+
+/* 추가: 푸터 스타일 */
+footer {
+    background-color: #1f1f1f;
+    text-align: center;
+    padding: 15px;
+}
