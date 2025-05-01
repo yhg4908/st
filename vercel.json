@@ -1,0 +1,12 @@
+{
+    "rewrites": [
+        {
+            "source": "/pkdocs",
+            "destination": "https://proxy.gitbook.site/sites/site_q3Mre"
+        },
+        {
+            "source": "/pkdocs/:match*",
+            "destination": "https://proxy.gitbook.site/sites/site_q3Mre/:match*"
+        }
+    ]
+}
