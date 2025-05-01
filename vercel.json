@@ -7,6 +7,14 @@
         {
             "source": "/pkdocs/:match*",
             "destination": "https://proxy.gitbook.site/sites/site_q3Mre/:match*"
+        },
+        {
+            "source": "/pkjoin",
+            "destination": "https://teamngt.vercel.app/pkjoin.html"
+        },
+        {
+            "source": "/pkjoin/:match*",
+            "destination": "https://teamngt.vercel.app/pkjoin.html/:match*"
         }
     ]
 }
