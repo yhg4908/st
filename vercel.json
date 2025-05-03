@@ -15,6 +15,14 @@
         {
             "source": "/pkjoin/:match*",
             "destination": "https://teamngt.vercel.app/pkjoin.html/:match*"
+        },
+        {
+            "source": "/status",
+            "destination": "https://team-ngt.betteruptime.com"
+        },
+        {
+            "source": "/status/:match*",
+            "destination": "https://team-ngt.betteruptime.com/:match*"
         }
     ]
 }
