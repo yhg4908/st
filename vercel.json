@@ -18,11 +18,11 @@
         },
         {
             "source": "/status",
-            "destination": "https://status.ngtservies.64bit.kr"
+            "destination": "https://stats.uptimerobot.com/G3bZBSvIFt"
         },
         {
             "source": "/status/:match*",
-            "destination": "https://status.ngtservies.64bit.kr/:match*"
+            "destination": "stats.uptimerobot.com/G3bZBSvIFt/:match*"
         }
     ]
 }
