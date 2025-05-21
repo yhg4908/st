@@ -23,6 +23,14 @@
         {
             "source": "/status/:match*",
             "destination": "stats.uptimerobot.com/G3bZBSvIFt/:match*"
+        },
+        {
+            "source": "/status/800578700",
+            "destination": "https://stats.uptimerobot.com/G3bZBSvIFt/800578700"
+        },
+        {
+            "source": "/status/800578700/:match*",
+            "destination": "https://stats.uptimerobot.com/G3bZBSvIFt/800578700/:match*"
         }
     ]
 }
