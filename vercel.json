@@ -1,19 +1,19 @@
 {
     "rewrites": [
         {
-            "source": "/pkdocs",
+            "source": "/seridocs",
             "destination": "https://proxy.gitbook.site/sites/site_q3Mre"
         },
         {
-            "source": "/pkdocs/:match*",
+            "source": "/seridocs/:match*",
             "destination": "https://proxy.gitbook.site/sites/site_q3Mre/:match*"
         },
         {
-            "source": "/pkjoin",
+            "source": "/serijoin",
             "destination": "https://teamngt.vercel.app/pkjoin.html"
         },
         {
-            "source": "/pkjoin/:match*",
+            "source": "/serijoin/:match*",
             "destination": "https://teamngt.vercel.app/pkjoin.html/:match*"
         },
         {
