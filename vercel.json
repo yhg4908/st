@@ -1,7 +1,7 @@
 {
     "rewrites": [
         {
-            "source": "/seridocs",
+            "source": "/seridocs/",
             "destination": "https://proxy.gitbook.site/sites/site_q3Mre"
         },
         {
