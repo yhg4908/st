@@ -5,6 +5,10 @@
             "destination": "https://proxy.gitbook.site/sites/site_q3Mre"
         },
         {
+            "source": "/seridocs",
+            "destination": "https://proxy.gitbook.site/sites/site_q3Mre"
+        },
+        {
             "source": "/seridocs/:match*",
             "destination": "https://proxy.gitbook.site/sites/site_q3Mre/:match*"
         },
@@ -13,11 +17,19 @@
             "destination": "https://teamngt.vercel.app/pkjoin.html"
         },
         {
+            "source": "/serijoin/",
+            "destination": "https://teamngt.vercel.app/pkjoin.html"
+        },
+        {
             "source": "/serijoin/:match*",
             "destination": "https://teamngt.vercel.app/pkjoin.html/:match*"
         },
         {
             "source": "/status",
+            "destination": "https://stats.uptimerobot.com/G3bZBSvIFt"
+        },
+        {
+            "source": "/status/",
             "destination": "https://stats.uptimerobot.com/G3bZBSvIFt"
         },
         {
