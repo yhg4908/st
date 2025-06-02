@@ -17,7 +17,23 @@ section {
     padding: 20px;
 }
 
-.project {
+.program {
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.link {
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.bot {
     background-color: #1e1e1e;
     border: 1px solid #333;
     margin-bottom: 20px;
