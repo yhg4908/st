@@ -37,15 +37,15 @@
             "destination": "https://stats.uptimerobot.com/G3bZBSvIFt/:match*"
         },
         {
-            "source": "/udupdate",
+            "source": "/ud",
             "destination": "https://www.ngtoffice.kro.kr/udupdate.html"
         },
         {
-            "source": "/status/",
+            "source": "/ud/",
             "destination": "https://www.ngtoffice.kro.kr/udupdate.html"
         },
         {
-            "source": "/status/:match*",
+            "source": "/ud/:match*",
             "destination": "https://www.ngtoffice.kro.kr/udupdate.html/:match*"
         }
     ]
