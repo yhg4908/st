@@ -2,5 +2,3 @@ User-agent: *
 Disallow: /
 User-agent: Yeti
 Allow: /
-Disallow: /style.css/
-Disallow: /script.js/
