@@ -49,6 +49,14 @@ section {
     border-radius: 5px;
 }
 
+.udup {
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 5px;
+}
+
 button {
     background-color: #007acc;
     color: white;
