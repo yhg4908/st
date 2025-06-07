@@ -14,15 +14,15 @@
         },
         {
             "source": "/serijoin",
-            "destination": "https://teamngt.vercel.app/pkjoin.html"
+            "destination": "https://www.ngtoffice.kro.kr/pkjoin.html"
         },
         {
             "source": "/serijoin/",
-            "destination": "https://teamngt.vercel.app/pkjoin.html"
+            "destination": "https://www.ngtoffice.kro.kr/pkjoin.html"
         },
         {
             "source": "/serijoin/:match*",
-            "destination": "https://teamngt.vercel.app/pkjoin.html/:match*"
+            "destination": "https://www.ngtoffice.kro.kr/pkjoin.html/:match*"
         },
         {
             "source": "/status",
@@ -35,6 +35,18 @@
         {
             "source": "/status/:match*",
             "destination": "https://stats.uptimerobot.com/G3bZBSvIFt/:match*"
+        },
+        {
+            "source": "/udupdate",
+            "destination": "https://www.ngtoffice.kro.kr/udupdate.html"
+        },
+        {
+            "source": "/status/",
+            "destination": "https://www.ngtoffice.kro.kr/udupdate.html"
+        },
+        {
+            "source": "/status/:match*",
+            "destination": "https://www.ngtoffice.kro.kr/udupdate.html/:match*"
         }
     ]
 }
